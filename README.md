@@ -175,6 +175,6 @@ The `main` branch is protected with the following rules:
 
 ## Author
 
-**Name:** Your Name  
-**Batch:** Your Batch Name  
-**Course:** Git & GitLab Practical Assignment
+**Name:** Tanmay Kakulte 
+**Batch:** 18 Jan 2026
+**Course:** MCA Devops
